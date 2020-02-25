@@ -1,4 +1,5 @@
 
+
  nav{
      font-family: Arial, sans-serif;
      font-size: 20px;
@@ -12,6 +13,7 @@
  nav a:hover{
      color: #fff;
  }
+
 
 .image {
   background-image: url("https://source.unsplash.com/1600x900/?food,restarant");
@@ -54,6 +56,7 @@
     margin: 0 auto;
     width:80%;
 }
+
 td{
     padding:20px;
 
@@ -77,18 +80,22 @@ td{
     display:block;
 }
 
+
 .tab-content h2{
     margin: 20px;
 }
+
 
 #tabs {
     font-size:1.4em;
 }
 
+
 .card-header p {
     font-size:1.5em;
     display: inline;
 }
+
 
 .card .price{
     float: right;
@@ -104,6 +111,7 @@ td{
 .footer h3 {
     text-align:right;
 }
+
 
 #reserveForm{
     padding:20px 0px 20px 0px;
