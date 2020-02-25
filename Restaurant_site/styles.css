@@ -1,0 +1,113 @@
+
+ nav{
+     font-family: Arial, sans-serif;
+     font-size: 20px;
+     font-weight:bold;
+ }
+
+ nav a{
+     color:#76D7C4;
+ }
+
+ nav a:hover{
+     color: #fff;
+ }
+
+.image {
+  background-image: url("https://source.unsplash.com/1600x900/?food,restarant");
+  background-size: cover;
+  position: relative;
+  height: 400px;
+  color: #000;
+  mix-blend-mode: lighten;
+}
+
+.title {
+  background-color: white;
+  border-radius:10px;
+  color: black;
+  font-size: 60px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding:10px;
+  width: 80%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
+
+.logo {
+  width: 300px;
+  height: 80px;
+}
+
+.subhead{
+    margin:40px;
+    text-align:center;
+}
+
+.center{
+    margin: 0 auto;
+    width:80%;
+}
+td{
+    padding:20px;
+
+}
+
+.text{
+    margin-left:100px;
+    margin-right: 100px;
+    padding: 40px;
+}
+
+.card{
+    margin: 30px;
+}
+
+ .tab-content {
+    display: none;
+}
+
+.active {
+    display:block;
+}
+
+.tab-content h2{
+    margin: 20px;
+}
+
+#tabs {
+    font-size:1.4em;
+}
+
+.card-header p {
+    font-size:1.5em;
+    display: inline;
+}
+
+.card .price{
+    float: right;
+}
+
+
+.footer{
+    color:#76D7C4;
+    background-color: #343a40;
+    padding:100px;
+}
+
+.footer h3 {
+    text-align:right;
+}
+
+#reserveForm{
+    padding:20px 0px 20px 0px;
+}
+ .form-check{
+     padding: 20px;
+ }
